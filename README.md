@@ -16,11 +16,12 @@ I keep the performance metrics (Runtime/Memory) at the top of each individual `.
 * **[66]** Plus One
 * **[67]** Add Binary
 * **[69]** Sqrt(x)
+* **[70]** Climbing Stairs
 ---
 
 ## 🛠️ Technical Focus
 * **Language:** C# (.NET Core)
-* **Optimization:** Focus on Time Complexity (O(n), O(\log n)) and Space Complexity ($O(1)$).
+* **Optimization:** Focus on Time Complexity (O(n), O(\log n)) and Space Complexity (O(1)).
 * **Documentation:** Each file includes the specific LeetCode performance stats in the header comments.
 
 ---
